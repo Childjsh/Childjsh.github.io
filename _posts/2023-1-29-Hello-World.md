@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 팀 켈러의 일과 영성 Part 3.(CH.9~12) 中 CH. 9~11
+published: true
 ---
 
 - # part 3 일과 영성, 복음의 날개를 달다
