@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 팀 켈러의 일과 영성 Part 3.(CH.9~12) 中 CH. 9~11
+title: 팀 켈러의 일과 영성 Part 3.(CH.9~12) 中 CH. 9~10
 published: true
 ---
 
